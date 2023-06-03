@@ -11,15 +11,7 @@
 <p align="center">
 <br>
 <a href="https://api.kuizuo.cn">🖥 Online Preview</a>
-<br><br>
-<a href="https://stackblitz.com/github/kuizuo/api-service"><img src="https://developer.stackblitz.com/img/open_in_stackblitz.svg" alt=""></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/kuizuo/api-service"><img alt="size" src="https://img.shields.io/github/stars/kuizuo/api-service?style=flat"></a>
-  <a href="https://www.npmjs.com/package/nuxt/v/rc"><img alt="size" src="https://img.shields.io/github/package-json/dependency-version/kuizuo/api-service/dev/nuxt?style=flat&colorA=002438&colorB=28CF8D"></a>
-  <a href="https://github.com/kuizuo/api-service/actions/workflows/ci.yml"><img alt="CI" src="https://img.shields.io/github/workflow/status/kuizuo/api-service/ci?label=ci&logo=github"></a>
-  <a href="https://github.com/kuizuo/api-service/tree/HEAD/LICENSE"><img alt="License" src="https://img.shields.io/github/license/kuizuo/api-service?style=flat&colorA=002438&colorB=28CF8D" /></a>
+<br>
 </p>
 
 ## Preview
@@ -38,7 +30,7 @@
 ## Usage
 
 ```
-git clone https://github.com/kuizuo/api-service
+git clone https://github.com/letsn/api-service
 cd api-service
 pnpm i
 ```
@@ -95,7 +87,3 @@ module.exports = {
 我个人经常与 API 接口打交道，因而收集了些常用的 api。但这些 api 接口调用方式各不相同，所以编写这个项目为了将这些接口整合到一起，进行易用性的封装，使其更易调用。
 
 **API 接口均来自网络，如有侵权，请联系作者删除！**
-
-## License
-
-[MIT](https://github.com/kuizuo/api-service/blob/main/LICENSE)
