@@ -10,13 +10,11 @@
 
 <p align="center">
 <br>
-<a href="https://api.kuizuo.cn">🖥 Online Preview</a>
+<a href="">🖥 Online Preview</a>
 <br>
 </p>
 
 ## Preview
-
-![KZ API](https://img.kuizuo.cn/KZ%20API.png)
 
 ## Features
 
